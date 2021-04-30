@@ -3,4 +3,5 @@
 ああああ
 ブランチのマージのテスト
 aaaaa
-github上でテスト
+github上でテスト1
+github上でテスト2
